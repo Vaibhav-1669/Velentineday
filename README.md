@@ -4,509 +4,90 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="pp.css">
-    <title>Page 2</title>
+    <title>Popup Example</title>
 </head>
-<body class="q">
-  
-  <div class="bx1" onclick="pp1()">VAIBHAV</div>
-  <div class="bx2" onclick="pp2()">VAIBHV</div>
-  <div class="bx3" onclick="pp3()">VAIBHAV</div>
-  <div class="bx4" onclick="pp4()">VAIBHAV</div>
-  <div class="bx5" onclick="pp5()">VAIBHAV</div>
-  <div class="bx6" onclick="pp6()">VAIBHAV</div>
-  
- <div class="sn1" id="k1">
-   <div class="l">
-     <span onclick="c1()" class="x1">&times;</span>
-     <img src="M1.jpeg" class="f" >
-     <h3>To My word</h3>
-     <div class="g1"><div class="d1">
-       <p>
-}
-.l{
-  height: 80%;
-  width: 80%;
-  background-color: white;
-  box-shadow: 10px 10px 20px rgba(0, 0, 0, 10);
-  margin-top: 10%;
-  margin-left: 35px;
-  overflow: scroll;
-  
-}
-
-.x1{
-  font-size: 25px;
-  margin-left: 10px;
-  margin-top: 5px;
-  position: fixed;
-}
-
-.sn6{
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 30, 0.5);
-  position: absolute;
-  display: none;
-  
-}
-
-
-.f{
-  position: fixed;
-  width: 200px;
-  height: 280px;
-  box-shadow:  10px 10px 20px 0px rgba(0, 0, 0, 10);
-  border-radius: 10px;
-  margin-left:  45px;
-  margin-top: 20px;
-  border-color: purple;
-  border-style: solid;
-  border-width: 2px;
-}
-
-
-
-h3 {
-  margin-top: 310px;
-  position: fixed;
-  margin-left: 90px;
-  background: linear-gradient(to right, red, blue);
-  -webkit-background-clip: text;
-  color: transparent;
-}
-
-.d1{
-  
-  border-radius: 20px;
-  margin: 0px;
-  width: 240px;
-  height: 500px;
-  background</p>
-     </div></div>
-     
-   </div>
- </div>
-  
-  <div class="sn2" id="k2">
-   <div class="l">
-     <span onclick="c2()" class="x1">&times;</span>
-     <img src="M2.jpeg" class="f">
-     <h3>To My word</h3>
-     <div class="g1"><div class="d1">
-       <p>
-}
-.l{
-  height: 80%;
-  width: 80%;
-  background-color: white;
-  box-shadow: 10px 10px 20px rgba(0, 0, 0, 10);
-  margin-top: 10%;
-  margin-left: 35px;
-  overflow: scroll;
-  
-}
-
-.x1{
-  font-size: 25px;
-  margin-left: 10px;
-  margin-top: 5px;
-  position: fixed;
-}
-
-.sn6{
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 30, 0.5);
-  position: absolute;
-  display: none;
-  
-}
-
-
-.f{
-  position: fixed;
-  width: 200px;
-  height: 280px;
-  box-shadow:  10px 10px 20px 0px rgba(0, 0, 0, 10);
-  border-radius: 10px;
-  margin-left:  45px;
-  margin-top: 20px;
-  border-color: purple;
-  border-style: solid;
-  border-width: 2px;
-}
-
-
-
-h3 {
-  margin-top: 310px;
-  position: fixed;
-  margin-left: 90px;
-  background: linear-gradient(to right, red, blue);
-  -webkit-background-clip: text;
-  color: transparent;
-}
-
-.d1{
-  
-  border-radius: 20px;
-  margin: 0px;
-  width: 240px;
-  height: 500px;
-  background</p>
-     </div></div>
-   </div>
- </div>
-  
-  <div class="sn3" id="k3">
-   <div class="l">
-     <span onclick="c3()" class="x1">&times;</span>
-     <img src="M3.jpeg" class="f">
-     <h3>To My word</h3>
-    <div class="g1"><div class="d1">
-       <p>
-}
-.l{
-  height: 80%;
-  width: 80%;
-  background-color: white;
-  box-shadow: 10px 10px 20px rgba(0, 0, 0, 10);
-  margin-top: 10%;
-  margin-left: 35px;
-  overflow: scroll;
-  
-}
-
-.x1{
-  font-size: 25px;
-  margin-left: 10px;
-  margin-top: 5px;
-  position: fixed;
-}
-
-.sn6{
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 30, 0.5);
-  position: absolute;
-  display: none;
-  
-}
-
-
-.f{
-  position: fixed;
-  width: 200px;
-  height: 280px;
-  box-shadow:  10px 10px 20px 0px rgba(0, 0, 0, 10);
-  border-radius: 10px;
-  margin-left:  45px;
-  margin-top: 20px;
-  border-color: purple;
-  border-style: solid;
-  border-width: 2px;
-}
-
-
-
-h3 {
-  margin-top: 310px;
-  position: fixed;
-  margin-left: 90px;
-  background: linear-gradient(to right, red, blue);
-  -webkit-background-clip: text;
-  color: transparent;
-}
-
-.d1{
-  
-  border-radius: 20px;
-  margin: 0px;
-  width: 240px;
-  height: 500px;
-  background</p>
-     </div></div>
-   </div>
- </div>
-  
-  <div class="sn4" id="k4">
-   <div class="l">
-     <span onclick="c4()" class="x1">&times;</span>
-     <img src="M4.jpeg" class="f">
-     <h3>To My word</h3>
-     <div class="g1"><div class="d1">
-       <p>
-}
-.l{
-  height: 80%;
-  width: 80%;
-  background-color: white;
-  box-shadow: 10px 10px 20px rgba(0, 0, 0, 10);
-  margin-top: 10%;
-  margin-left: 35px;
-  overflow: scroll;
-  
-}
-
-.x1{
-  font-size: 25px;
-  margin-left: 10px;
-  margin-top: 5px;
-  position: fixed;
-}
-
-.sn6{
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 30, 0.5);
-  position: absolute;
-  display: none;
-  
-}
-
-
-.f{
-  position: fixed;
-  width: 200px;
-  height: 280px;
-  box-shadow:  10px 10px 20px 0px rgba(0, 0, 0, 10);
-  border-radius: 10px;
-  margin-left:  45px;
-  margin-top: 20px;
-  border-color: purple;
-  border-style: solid;
-  border-width: 2px;
-}
-
-
-
-h3 {
-  margin-top: 310px;
-  position: fixed;
-  margin-left: 90px;
-  background: linear-gradient(to right, red, blue);
-  -webkit-background-clip: text;
-  color: transparent;
-}
-
-.d1{
-  
-  border-radius: 20px;
-  margin: 0px;
-  width: 240px;
-  height: 500px;
-  background</p>
-     </div></div>
-   </div>
- </div>
-  
-<div class="sn5" id="k5">
-   <div class="l">
-     <span onclick="c5()" class="x1">&times;</span>
-     <img src="M5.jpeg" class="f">
-     <h3>To My word</h3>
-     <div class="g1"><div class="d1">
-       <p>
-}
-.l{
-  height: 80%;
-  width: 80%;
-  background-color: white;
-  box-shadow: 10px 10px 20px rgba(0, 0, 0, 10);
-  margin-top: 10%;
-  margin-left: 35px;
-  overflow: scroll;
-  
-}
-
-.x1{
-  font-size: 25px;
-  margin-left: 10px;
-  margin-top: 5px;
-  position: fixed;
-}
-
-.sn6{
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 30, 0.5);
-  position: absolute;
-  display: none;
-  
-}
-
-
-.f{
-  position: fixed;
-  width: 200px;
-  height: 280px;
-  box-shadow:  10px 10px 20px 0px rgba(0, 0, 0, 10);
-  border-radius: 10px;
-  margin-left:  45px;
-  margin-top: 20px;
-  border-color: purple;
-  border-style: solid;
-  border-width: 2px;
-}
-
-
-
-h3 {
-  margin-top: 310px;
-  position: fixed;
-  margin-left: 90px;
-  background: linear-gradient(to right, red, blue);
-  -webkit-background-clip: text;
-  color: transparent;
-}
-
-.d1{
-  
-  border-radius: 20px;
-  margin: 0px;
-  width: 240px;
-  height: 500px;
-  background</p>
-     </div></div>
-   </div>
- </div>
-  
-<div class="sn6" id="k6">
-   <div class="l">
-     <span onclick="c6()" class="x1">&times;</span>
-     <img src="M6.jpeg" class="f">
-     <h3>To My word</h3>
-     <div class="g1"><div class="d1">
-       <p>
-}
-.l{
-  height: 80%;
-  width: 80%;
-  background-color: white;
-  box-shadow: 10px 10px 20px rgba(0, 0, 0, 10);
-  margin-top: 10%;
-  margin-left: 35px;
-  overflow: scroll;
-  
-}
-
-.x1{
-  font-size: 25px;
-  margin-left: 10px;
-  margin-top: 5px;
-  position: fixed;
-}
-
-.sn6{
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 30, 0.5);
-  position: absolute;
-  display: none;
-  
-}
-
-
-.f{
-  position: fixed;
-  width: 200px;
-  height: 280px;
-  box-shadow:  10px 10px 20px 0px rgba(0, 0, 0, 10);
-  border-radius: 10px;
-  margin-left:  45px;
-  margin-top: 20px;
-  border-color: purple;
-  border-style: solid;
-  border-width: 2px;
-}
-
-
-
-h3 {
-  margin-top: 310px;
-  position: fixed;
-  margin-left: 90px;
-  background: linear-gradient(to right, red, blue);
-  -webkit-background-clip: text;
-  color: transparent;
-}
-
-.d1{
-  
-  border-radius: 20px;
-  margin: 0px;
-  width: 240px;
-  height: 500px;
-  background</p>
-     </div></div>
-   </div>
- </div>  
-  
+<body>
+  <div class="btn" onclick="ishu()">Login</div>
+  <div class="k">
+    <p class="happy">Happy</p>
+    <h1 class="velen">Velentine day</h1>
+  </div>
+  <div class="k1">
+     <h4 class="t1">vaibhav</h4>
+    <nav class="p1">
+      <img src="1.png">
+    </nav>
+    
+  </div>
+  <div class="k2">
+     <h4 class="t2">vaibhav</h4>
+    <nav class="p2">
+      <img src="2.png">
+    </nav>
+  </div>
+  <div class="k3">
+    <h4 class="t3">vaibhav</h4>
+    <nav class="p3">
+      <img src="3.png">
+    </nav>
+  </div>
+  <div class="k4">
+     <h4 class="t4">vaibhav</h4>
+    <nav class="p4">
+      <img src="4.png">
+    </nav>
+  </div>
+  <div class="k5">
+    <h4 class="t5">vaibhav</h4>
+    <nav class="p5">
+      <img src="5.png">
+    </nav>
+  </div>
+  <div class="scren" id="tisha">
+    <div class="b">
+      <span onclick="pp()" class="x">&times;</span>
+      <h4>Enter your login ID</h4>
+      <hr>
+      <form onsubmit="return false;">
+        <p class="naam">User ID</p>
+        <input class="a" type="text" id="user"><br>
+        <p class="pass">Password</p><br>
+        <input class="c" type="password" id="psd"><br><br>
+        <button type="button" onclick="sp()" class="e"><a href="sub.html">Submit</a></button>
+      </form>
+      <p id="j" class="p"></p>
+      <p class="sin">Sing-up to contact Vaibhav</p>
+    </div>
+  </div>
   
   <script>
-       
-        function pp1(){
-          var x = document.getElementById("k1")
+  
+        function ishu(){
+          var x = document.getElementById("tisha")
           x.style.display = 'block';        
         } 
   
-  function c1(){
-          var x = document.getElementById("k1")
-          x.style.display = 'none';        
-        } 
-   
-      function pp2(){
-          var x = document.getElementById("k2")
-          x.style.display = 'block';        
-        } 
-  
-  function c2(){
-          var x = document.getElementById("k2")
-          x.style.display = 'none';        
-        } 
-  
-    function pp3(){
-          var x = document.getElementById("k3")
-          x.style.display = 'block';        
-        } 
-  
-  function c3(){
-          var x = document.getElementById("k3")
-          x.style.display = 'none';        
-        } 
-  
-     function pp4(){
-          var x = document.getElementById("k4")
-          x.style.display = 'block';        
-        } 
-  
-function c4(){
-          var x = document.getElementById("k4")
+       function pp(){
+          var x = document.getElementById("tisha")
           x.style.display = 'none';        
         }   
   
   
-      function pp5(){
-          var x = document.getElementById("k5")
-          x.style.display = 'block';        
-        } 
-  
-  function c5(){
-          var x = document.getElementById("k5")
-          x.style.display = 'none';        
-        } 
-  
-  
-      function pp6(){
-          var x = document.getElementById("k6")
-          x.style.display = 'block';        
-        } 
-  
-function c6(){
-          var x = document.getElementById("k6")
-          x.style.display = 'none';        
-        } 
-  
-</script>  
+     function sp(){
+       event.preventDefault();
+       var x = document.getElementById("user").value;
+       var y = document.getElementById("psd").value;
+       var z = x=="Vaibhav" && y=="ishu" ? " USER FOUND" : "USER NOT FOUND";
+       document.getElementById("j").innerHTML = z
+       
+       
+       if (z == " USER FOUND") {
+          window.location.href = "sub.html";
+    }
+       
+     }
+       
+       
+  </script>
 </body>
 </html>
